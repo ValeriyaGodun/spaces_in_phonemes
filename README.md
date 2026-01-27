@@ -1,4 +1,4 @@
-# Сегментация фонем японского языка с помощью HSMM
+# Сегментация фонем японского языка
 
 ## Описание задачи
 
@@ -22,7 +22,7 @@ https://github.com/Sveta23S/Japanese_spaces
 
 **Пример данных:**
 
-!!!картинка
+<img width="664" height="222" alt="image" src="https://github.com/user-attachments/assets/1e4b322b-4444-48ee-b16c-71a7690a9d6e" />
 
 ## Подготовка данных
 
@@ -37,7 +37,7 @@ https://github.com/Sveta23S/Japanese_spaces
 - Максимальное отношение длины фонем к числу символов: 4.67
 - Среднее количество фонем на один японский символ: 2.234
 
-!!!картинка
+<img width="556" height="220" alt="image" src="https://github.com/user-attachments/assets/9f5bc678-70af-409d-a4b2-d5dbc1b23e9c" />
 
 ## Подход к решению
 
@@ -98,4 +98,4 @@ n_iter: 50 (количество итераций EM)
 
 **Boundary F1-score:** 0.8763
 
-!!!картинка
+<img width="712" height="456" alt="image" src="https://github.com/user-attachments/assets/5482dbbc-fcc9-4d9f-92c7-07ea556a0233" />
